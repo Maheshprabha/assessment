@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-12-22T12:24:04 IST" name="Suite" finished-at="2020-12-22T12:28:32 IST" duration-ms="268374">
+    <groups>
+    </groups>
+    <test started-at="2020-12-22T12:24:04 IST" name="Test" finished-at="2020-12-22T12:28:32 IST" duration-ms="268374">
+      <class name="com.atmecs.openmrs.testscript.RegisterTestscript">
+        <test-method is-config="true" signature="invokeBrowser()[pri:0, instance:com.atmecs.openmrs.testscript.RegisterTestscript@4be29ed9]" started-at="2020-12-22T12:26:11 IST" name="invokeBrowser" finished-at="2020-12-22T12:27:31 IST" duration-ms="79929" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeBrowser -->
+        <test-method signature="register()[pri:0, instance:com.atmecs.openmrs.testscript.RegisterTestscript@4be29ed9]" started-at="2020-12-22T12:27:31 IST" name="register" finished-at="2020-12-22T12:28:29 IST" duration-ms="57727" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.atmecs.openmrs.testscript.RegisterTestscript@4be29ed9]" started-at="2020-12-22T12:28:29 IST" name="closeBrowser" finished-at="2020-12-22T12:28:32 IST" duration-ms="3058" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.atmecs.openmrs.testscript.RegisterTestscript -->
+      <class name="com.atmecs.openmrs.testscript.TestScript">
+        <test-method is-config="true" signature="invokeBrowser()[pri:0, instance:com.atmecs.openmrs.testscript.TestScript@3a7442c7]" started-at="2020-12-22T12:24:04 IST" name="invokeBrowser" finished-at="2020-12-22T12:25:26 IST" duration-ms="82571" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeBrowser -->
+        <test-method signature="loginpro()[pri:0, instance:com.atmecs.openmrs.testscript.TestScript@3a7442c7]" started-at="2020-12-22T12:25:26 IST" name="loginpro" finished-at="2020-12-22T12:26:03 IST" duration-ms="36847" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpro -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.atmecs.openmrs.testscript.TestScript@3a7442c7]" started-at="2020-12-22T12:26:03 IST" name="closeBrowser" finished-at="2020-12-22T12:26:11 IST" duration-ms="7831" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.atmecs.openmrs.testscript.TestScript -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

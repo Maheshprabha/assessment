@@ -1,0 +1,218 @@
+2020-12-21 12:49:22,735  INFO [main] Reports:30 - User login process
+2020-12-21 12:49:28,512  INFO [main] Reports:30 - User has been logged sucessfully
+2020-12-21 12:54:53,751  INFO [main] Reports:30 - User login process
+2020-12-21 12:54:58,942  INFO [main] Reports:30 - User has been logged sucessfully
+2020-12-21 12:59:34,485  INFO [main] Reports:30 - User login process
+2020-12-21 12:59:39,316  INFO [main] Reports:30 - User has been logged sucessfully
+2020-12-21 13:06:06,702  INFO [main] Reports:30 - User login process
+2020-12-21 13:06:10,164  INFO [main] Reports:30 - User has been logged sucessfully
+2020-12-21 14:21:21,586  INFO [main] Reports:30 - User login process
+2020-12-21 14:21:31,946  INFO [main] Reports:30 - User has been logged sucessfully
+2020-12-21 17:07:30,136  INFO [main] Reports:30 - User login process
+2020-12-21 17:07:36,421  INFO [main] Reports:30 - User has been logged sucessfully
+2020-12-21 17:26:48,182  INFO [main] Reports:30 - Enter user name
+2020-12-21 17:26:54,347  INFO [main] Reports:30 - Enter password
+2020-12-21 17:26:54,573  INFO [main] Reports:30 - Clickinh pharmacy
+2020-12-21 17:26:54,783  INFO [main] Reports:30 - Enter loginbutton
+2020-12-21 17:27:00,589  INFO [main] Reports:30 - Clicking loginbutton
+2020-12-21 17:27:11,605  INFO [main] Reports:30 - Enter firstname
+2020-12-21 17:27:11,853  INFO [main] Reports:30 - Enter familyname
+2020-12-21 17:27:12,206  INFO [main] Reports:30 - Enter loginbutton
+2020-12-21 17:27:12,554  INFO [main] Reports:30 - Selecting gender
+2020-12-21 17:27:12,746  INFO [main] Reports:30 - Enter loginbutton
+2020-12-21 17:27:12,876  INFO [main] Reports:30 - Enter estimation year
+2020-12-21 17:27:13,211  INFO [main] Reports:30 - Enter estimation month
+2020-12-21 17:27:13,438  INFO [main] Reports:30 - Enter loginbutton
+2020-12-21 17:27:13,589  INFO [main] Reports:30 - Enter address
+2020-12-21 17:27:13,881  INFO [main] Reports:30 - Enter secondaddress
+2020-12-21 17:27:14,162  INFO [main] Reports:30 - Enter cityname
+2020-12-21 17:27:14,394  INFO [main] Reports:30 - Enter statename
+2020-12-21 17:27:14,624  INFO [main] Reports:30 - Enter country
+2020-12-21 17:27:14,832  INFO [main] Reports:30 - Enter postal code
+2020-12-21 17:27:15,106  INFO [main] Reports:30 - Enter loginbutton
+2020-12-21 17:27:15,233  INFO [main] Reports:30 - Enter phonenumber
+2020-12-21 17:27:15,606  INFO [main] Reports:30 - Selecting relationship
+2020-12-21 17:27:16,029  INFO [main] Reports:30 - Enter name of the person
+2020-12-21 17:27:16,366  INFO [main] Reports:30 - Enter loginbutton
+2020-12-21 17:27:16,532  INFO [main] Reports:30 - Enter confirmbutton
+2020-12-21 17:27:16,689  INFO [main] Reports:30 - Clicking  homepageicon
+2020-12-21 17:27:52,477  INFO [main] Reports:30 - Clicking  patient record
+2020-12-21 17:30:19,236  INFO [main] Reports:30 - Enter user name
+2020-12-21 17:30:19,745  INFO [main] Reports:30 - Enter password
+2020-12-21 17:30:19,971  INFO [main] Reports:30 - Clickinh pharmacy
+2020-12-21 17:30:20,160  INFO [main] Reports:30 - Enter loginbutton
+2020-12-21 17:30:26,539  INFO [main] Reports:30 - Clicking loginbutton
+2020-12-21 17:30:49,470  INFO [main] Reports:30 - Enter firstname
+2020-12-21 17:30:49,911  INFO [main] Reports:30 - Enter familyname
+2020-12-21 17:30:50,195  INFO [main] Reports:30 - Enter loginbutton
+2020-12-21 17:30:50,472  INFO [main] Reports:30 - Selecting gender
+2020-12-21 17:30:50,611  INFO [main] Reports:30 - Enter loginbutton
+2020-12-21 17:30:50,796  INFO [main] Reports:30 - Enter estimation year
+2020-12-21 17:30:51,087  INFO [main] Reports:30 - Enter estimation month
+2020-12-21 17:30:51,289  INFO [main] Reports:30 - Enter loginbutton
+2020-12-21 17:30:51,442  INFO [main] Reports:30 - Enter address
+2020-12-21 17:30:51,784  INFO [main] Reports:30 - Enter secondaddress
+2020-12-21 17:30:53,372  INFO [main] Reports:30 - Enter cityname
+2020-12-21 17:30:53,631  INFO [main] Reports:30 - Enter statename
+2020-12-21 17:30:53,898  INFO [main] Reports:30 - Enter country
+2020-12-21 17:30:54,106  INFO [main] Reports:30 - Enter postal code
+2020-12-21 17:30:54,371  INFO [main] Reports:30 - Enter loginbutton
+2020-12-21 17:30:54,562  INFO [main] Reports:30 - Enter phonenumber
+2020-12-21 17:30:54,913  INFO [main] Reports:30 - Selecting relationship
+2020-12-21 17:30:55,649  INFO [main] Reports:30 - Enter name of the person
+2020-12-21 17:30:56,305  INFO [main] Reports:30 - Enter loginbutton
+2020-12-21 17:30:56,522  INFO [main] Reports:30 - Enter confirmbutton
+2020-12-21 17:30:56,674  INFO [main] Reports:30 - Clicking  homepageicon
+2020-12-21 17:30:57,862  INFO [main] Reports:30 - Clicking  patient record
+2020-12-21 17:31:02,846  INFO [main] Reports:30 - Enter patient search
+2020-12-21 17:31:03,013  INFO [main] Reports:30 - Clicking homepageicon
+2020-12-21 17:31:04,401  INFO [main] Reports:30 - Clicking  datamanagement
+2020-12-21 17:31:06,106  INFO [main] Reports:30 - Clicking mergerecords
+2020-12-21 17:31:10,622  INFO [main] Reports:30 - Enter patient  id
+2020-12-21 17:31:10,883  INFO [main] Reports:30 - Enter second patient  id
+2020-12-21 17:31:11,090  INFO [main] Reports:30 - Clicking confirm button
+2020-12-21 18:50:41,815  INFO [main] Reports:30 - User login process
+2020-12-21 18:51:27,599  INFO [main] Reports:30 - Enter user name
+2020-12-21 18:51:29,204  INFO [main] Reports:30 - Enter password
+2020-12-21 18:51:29,608  INFO [main] Reports:30 - Clicking pharmacy
+2020-12-21 18:51:29,997  INFO [main] Reports:30 - Enter loginbutton
+2020-12-21 18:51:38,645  INFO [main] Reports:30 - Clicking loginbutton
+2020-12-21 18:51:53,455  INFO [main] Reports:30 - Enter firstname
+2020-12-21 18:51:54,101  INFO [main] Reports:30 - Enter familyname
+2020-12-21 18:51:54,736  INFO [main] Reports:30 - Enter loginbutton
+2020-12-21 18:51:54,928  INFO [main] Reports:30 - Selecting gender
+2020-12-21 18:51:55,346  INFO [main] Reports:30 - Enter loginbutton
+2020-12-21 18:51:55,524  INFO [main] Reports:30 - Enter estimation year
+2020-12-21 18:51:55,720  INFO [main] Reports:30 - Enter estimation month
+2020-12-21 18:51:55,983  INFO [main] Reports:30 - Enter loginbutton
+2020-12-21 18:51:56,261  INFO [main] Reports:30 - Enter address
+2020-12-21 18:51:56,485  INFO [main] Reports:30 - Enter secondaddress
+2020-12-21 18:51:56,953  INFO [main] Reports:30 - Enter cityname
+2020-12-21 18:51:57,203  INFO [main] Reports:30 - Enter statename
+2020-12-21 18:51:57,422  INFO [main] Reports:30 - Enter country
+2020-12-21 18:51:57,706  INFO [main] Reports:30 - Enter postal code
+2020-12-21 18:51:58,033  INFO [main] Reports:30 - Enter loginbutton
+2020-12-21 18:51:58,213  INFO [main] Reports:30 - Enter phonenumber
+2020-12-21 18:51:58,542  INFO [main] Reports:30 - Selecting relationship
+2020-12-21 18:51:59,217  INFO [main] Reports:30 - Enter name of the person
+2020-12-21 18:51:59,551  INFO [main] Reports:30 - Enter loginbutton
+2020-12-21 18:51:59,677  INFO [main] Reports:30 - Enter confirmbutton
+2020-12-21 18:51:59,881  INFO [main] Reports:30 - Clicking  homepageicon
+2020-12-21 18:52:20,792  INFO [main] Reports:30 - Clicking  patient record
+2020-12-21 18:55:09,718  INFO [main] Reports:30 - User login process
+2020-12-21 18:55:37,576  INFO [main] Reports:30 - Enter user name
+2020-12-21 18:55:37,857  INFO [main] Reports:30 - Enter password
+2020-12-21 18:55:38,095  INFO [main] Reports:30 - Clicking pharmacy
+2020-12-21 18:55:38,252  INFO [main] Reports:30 - Enter loginbutton
+2020-12-21 18:55:44,213  INFO [main] Reports:30 - Clicking loginbutton
+2020-12-21 18:56:01,304  INFO [main] Reports:30 - Enter firstname
+2020-12-21 18:56:02,002  INFO [main] Reports:30 - Enter familyname
+2020-12-21 18:56:02,238  INFO [main] Reports:30 - Enter loginbutton
+2020-12-21 18:56:02,402  INFO [main] Reports:30 - Selecting gender
+2020-12-21 18:56:02,729  INFO [main] Reports:30 - Enter loginbutton
+2020-12-21 18:56:02,854  INFO [main] Reports:30 - Enter estimation year
+2020-12-21 18:56:03,026  INFO [main] Reports:30 - Enter estimation month
+2020-12-21 18:56:03,183  INFO [main] Reports:30 - Enter loginbutton
+2020-12-21 18:56:03,404  INFO [main] Reports:30 - Enter address
+2020-12-21 18:56:03,621  INFO [main] Reports:30 - Enter secondaddress
+2020-12-21 18:56:03,907  INFO [main] Reports:30 - Enter cityname
+2020-12-21 18:56:04,140  INFO [main] Reports:30 - Enter statename
+2020-12-21 18:56:04,381  INFO [main] Reports:30 - Enter country
+2020-12-21 18:56:04,609  INFO [main] Reports:30 - Enter postal code
+2020-12-21 18:56:04,795  INFO [main] Reports:30 - Enter loginbutton
+2020-12-21 18:56:04,911  INFO [main] Reports:30 - Enter phonenumber
+2020-12-21 18:56:05,278  INFO [main] Reports:30 - Selecting relationship
+2020-12-21 18:56:05,772  INFO [main] Reports:30 - Enter name of the person
+2020-12-21 18:56:06,277  INFO [main] Reports:30 - Enter loginbutton
+2020-12-21 18:56:06,517  INFO [main] Reports:30 - Enter confirmbutton
+2020-12-21 18:56:06,671  INFO [main] Reports:30 - Clicking  homepageicon
+2020-12-21 18:56:08,794  INFO [main] Reports:30 - Clicking  patient record
+2020-12-21 18:56:17,178  INFO [main] Reports:30 - Enter patient search
+2020-12-21 18:56:17,323  INFO [main] Reports:30 - Clicking homepageicon
+2020-12-21 18:56:19,996  INFO [main] Reports:30 - Clicking  datamanagement
+2020-12-21 18:56:21,851  INFO [main] Reports:30 - Clicking mergerecords
+2020-12-21 18:56:29,301  INFO [main] Reports:30 - Enter patient  id
+2020-12-21 18:56:29,471  INFO [main] Reports:30 - Enter second patient  id
+2020-12-21 18:56:29,659  INFO [main] Reports:30 - Clicking confirm button
+2020-12-21 18:59:30,840  INFO [main] Reports:30 - User login process
+2020-12-21 19:00:08,681  INFO [main] Reports:30 - Enter user name
+2020-12-21 19:00:08,830  INFO [main] Reports:30 - Enter password
+2020-12-21 19:00:09,050  INFO [main] Reports:30 - Clicking pharmacy
+2020-12-21 19:00:09,227  INFO [main] Reports:30 - Enter loginbutton
+2020-12-21 19:00:12,852  INFO [main] Reports:30 - Clicking loginbutton
+2020-12-21 19:00:24,299  INFO [main] Reports:30 - Enter firstname
+2020-12-21 19:00:24,515  INFO [main] Reports:30 - Enter familyname
+2020-12-21 19:00:24,740  INFO [main] Reports:30 - Enter loginbutton
+2020-12-21 19:00:24,926  INFO [main] Reports:30 - Selecting gender
+2020-12-21 19:00:25,106  INFO [main] Reports:30 - Enter loginbutton
+2020-12-21 19:00:25,214  INFO [main] Reports:30 - Enter estimation year
+2020-12-21 19:00:25,417  INFO [main] Reports:30 - Enter estimation month
+2020-12-21 19:00:25,611  INFO [main] Reports:30 - Enter loginbutton
+2020-12-21 19:00:25,761  INFO [main] Reports:30 - Enter address
+2020-12-21 19:00:25,993  INFO [main] Reports:30 - Enter secondaddress
+2020-12-21 19:00:26,263  INFO [main] Reports:30 - Enter cityname
+2020-12-21 19:00:26,481  INFO [main] Reports:30 - Enter statename
+2020-12-21 19:00:26,763  INFO [main] Reports:30 - Enter country
+2020-12-21 19:00:26,979  INFO [main] Reports:30 - Enter postal code
+2020-12-21 19:00:27,187  INFO [main] Reports:30 - Enter loginbutton
+2020-12-21 19:00:27,299  INFO [main] Reports:30 - Enter phonenumber
+2020-12-21 19:00:27,628  INFO [main] Reports:30 - Selecting relationship
+2020-12-21 19:00:28,924  INFO [main] Reports:30 - Enter name of the person
+2020-12-21 19:00:29,159  INFO [main] Reports:30 - Enter loginbutton
+2020-12-21 19:00:29,286  INFO [main] Reports:30 - Enter confirmbutton
+2020-12-21 19:00:29,451  INFO [main] Reports:30 - Clicking  homepageicon
+2020-12-21 19:00:41,368  INFO [main] Reports:30 - Clicking  patient record
+2020-12-21 19:08:13,729  INFO [main] Reports:30 - User login process
+2020-12-21 20:26:57,609  INFO [main] Reports:30 - User login process
+2020-12-21 20:29:37,637  INFO [main] Reports:30 - User login process
+2020-12-21 20:38:45,882  INFO [main] Reports:30 - User login process
+2020-12-21 20:58:35,159  INFO [main] Reports:30 - User login process
+2020-12-22 12:14:31,340  INFO [main] Reports:30 - Enter user name
+2020-12-22 12:14:31,863  INFO [main] Reports:30 - Enter password
+2020-12-22 12:14:32,108  INFO [main] Reports:30 - Clicking pharmacy
+2020-12-22 12:14:32,351  INFO [main] Reports:30 - Enter loginbutton
+2020-12-22 12:14:41,338  INFO [main] Reports:30 - Clicking loginbutton
+2020-12-22 12:21:03,176  INFO [main] Reports:30 - Enter user name
+2020-12-22 12:21:04,387  INFO [main] Reports:30 - Enter password
+2020-12-22 12:21:04,672  INFO [main] Reports:30 - Clicking pharmacy
+2020-12-22 12:21:05,058  INFO [main] Reports:30 - Enter loginbutton
+2020-12-22 12:21:13,557  INFO [main] Reports:30 - Clicking loginbutton
+2020-12-22 12:25:40,180  INFO [main] Reports:30 - Enter user name
+2020-12-22 12:25:44,540  INFO [main] Reports:30 - Enter password
+2020-12-22 12:25:45,055  INFO [main] Reports:30 - Clicking pharmacy
+2020-12-22 12:25:45,560  INFO [main] Reports:30 - Enter loginbutton
+2020-12-22 12:25:53,349  INFO [main] Reports:30 - Clicking loginbutton
+2020-12-22 12:27:32,379  INFO [main] Reports:30 - Enter user name
+2020-12-22 12:27:33,253  INFO [main] Reports:30 - Enter password
+2020-12-22 12:27:33,758  INFO [main] Reports:30 - Clicking pharmacy
+2020-12-22 12:27:34,231  INFO [main] Reports:30 - Enter loginbutton
+2020-12-22 12:27:43,192  INFO [main] Reports:30 - Clicking loginbutton
+2020-12-22 12:27:58,994  INFO [main] Reports:30 - Enter firstname
+2020-12-22 12:28:00,147  INFO [main] Reports:30 - Enter familyname
+2020-12-22 12:28:01,006  INFO [main] Reports:30 - Enter loginbutton
+2020-12-22 12:28:01,362  INFO [main] Reports:30 - Selecting gender
+2020-12-22 12:28:01,724  INFO [main] Reports:30 - Enter loginbutton
+2020-12-22 12:28:01,866  INFO [main] Reports:30 - Enter estimation year
+2020-12-22 12:28:02,163  INFO [main] Reports:30 - Enter estimation month
+2020-12-22 12:28:02,333  INFO [main] Reports:30 - Enter loginbutton
+2020-12-22 12:28:02,496  INFO [main] Reports:30 - Enter address
+2020-12-22 12:28:02,714  INFO [main] Reports:30 - Enter secondaddress
+2020-12-22 12:28:05,083  INFO [main] Reports:30 - Enter cityname
+2020-12-22 12:28:05,319  INFO [main] Reports:30 - Enter statename
+2020-12-22 12:28:05,608  INFO [main] Reports:30 - Enter country
+2020-12-22 12:28:05,931  INFO [main] Reports:30 - Enter postal code
+2020-12-22 12:28:06,282  INFO [main] Reports:30 - Enter loginbutton
+2020-12-22 12:28:06,525  INFO [main] Reports:30 - Enter phonenumber
+2020-12-22 12:28:06,982  INFO [main] Reports:30 - Selecting relationship
+2020-12-22 12:28:08,062  INFO [main] Reports:30 - Enter name of the person
+2020-12-22 12:28:08,527  INFO [main] Reports:30 - Enter loginbutton
+2020-12-22 12:28:08,697  INFO [main] Reports:30 - Enter confirmbutton
+2020-12-22 12:28:08,885  INFO [main] Reports:30 - Clicking  homepageicon
+2020-12-22 12:28:10,324  INFO [main] Reports:30 - Clicking  patient record
+2020-12-22 12:28:17,509  INFO [main] Reports:30 - Enter patient search
+2020-12-22 12:28:17,718  INFO [main] Reports:30 - Clicking homepageicon
+2020-12-22 12:28:19,697  INFO [main] Reports:30 - Clicking  datamanagement
+2020-12-22 12:28:22,336  INFO [main] Reports:30 - Clicking mergerecords
+2020-12-22 12:28:28,819  INFO [main] Reports:30 - Enter patient  id
+2020-12-22 12:28:29,001  INFO [main] Reports:30 - Enter second patient  id
+2020-12-22 12:28:29,187  INFO [main] Reports:30 - Clicking confirm button
